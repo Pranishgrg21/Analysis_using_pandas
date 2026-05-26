@@ -1,8 +1,8 @@
-numpy
-pandas
-openpyxl
-matplotlib
-seaborn
+numpy==2.4.4
+pandas==3.0.2
+openpyxl==3.1.5
+matplotlib==3.10.9
+seaborn==0.13.2
 
 # virtual environment: python -m venv venv
 
